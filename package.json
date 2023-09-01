@@ -1,0 +1,24 @@
+{
+  "name": "vndbot",
+  "version": "1.0.0",
+  "description": "VNDB for discord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node dev/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kqnade/vndbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "vndb"
+  ],
+  "author": "kqnade",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kqnade/vndbot/issues"
+  },
+  "homepage": "https://github.com/kqnade/vndbot#readme"
+}
